@@ -1,3 +1,3 @@
-# Time-Series-Analysis
+# Time Series Analysis Project
 
 Time Series Analysis is a powerful statistical tool used to analyse temporal data points collected over time. It allows us to understand underlying patterns, seasonal variations, and trends in the data, which can be crucial for forecasting future values. This project focuses on the analysis of three distinct datasets: Consumer Price Index (CPI) - Combined (All India), All India area weighted monthly, seasonal, and annual rainfall, and Madras Surface Temperature. The objective is to apply various time series analysis techniques to these datasets to uncover insights and make accurate forecasts.
